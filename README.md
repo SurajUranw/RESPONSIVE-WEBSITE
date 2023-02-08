@@ -4,3 +4,4 @@ Objective: This Responsive Website will fit according to screen sizes and has th
 Stack Used: HTML| CSS | BOOTSTRAP4 | JAVA SCRIPT.
 
 visit: https://surajuranw.github.io/RESPONSIVE-WEBSITE/
+Thanks!
